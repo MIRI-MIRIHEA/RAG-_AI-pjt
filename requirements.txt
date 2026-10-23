@@ -4,5 +4,6 @@ langchain-openai==1.4.3
 langchain-core==1.6.0
 langchain-chroma
 langchain-huggingface
+sentence-transformers
 python-dotenv==1.2.3
 requests==2.34.2
