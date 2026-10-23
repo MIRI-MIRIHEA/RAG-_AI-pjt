@@ -1,0 +1,39 @@
+# pip install pandas pyyaml streamlit python-dotenv \
+#   langchain-chroma langchain-core langchain-openai \
+#   langchain-huggingface langchain-text-splitters \
+#   sentence-transformers langgraph
+
+
+# config.yaml
+paths:
+  csv: data/tea_metadata.csv
+  jsonl: output/external_documents.jsonl
+  vectorstore: vectorstore/tea_chroma
+
+vectorstore:
+  collection_name: tea_documents
+  batch_size: 32
+
+embedding:
+  model_name: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+  device: cpu
+  normalize_embeddings: true
+
+chunking:
+  chunk_size: 800
+  chunk_overlap: 120
+  separators:
+    - "\n\n"
+    - "\n"
+    - ". "
+    - " "
+    - ""
+
+retrieval:
+  metadata_limit: 5
+  external_limit: 5
+
+llm:
+  model: gpt-5.4-nano
+  temperature: 0
+  base_url: https://gms.ssafy.io/gmsapi/api.openai.com/v1/

@@ -1,0 +1,128 @@
+name,english_name,category,subcategory,ingredients,description,caffeine_level,caffeine_mg_per_tea_amount,tea_amount_g,water_volume_ml,water_temperature_c,steep_time_min,brewing_method,taste,aroma,source_url
+센차,Sencha,녹차,일본 증제차,녹차 잎,증기로 산화를 억제해 제조하는 일본 녹차,TRUE,30,3,200,75,2,침출,감칠맛|풀향,풀향|해조향,https://en.wikipedia.org/wiki/Sencha
+말차,Matcha,녹차,분말차,분말 녹차,분말 형태의 녹차로 물에 풀어 마심,TRUE,70,2,70,80,0.5,휘저어 풀기,고소함|감칠맛,풀향|해조향,https://en.wikipedia.org/wiki/Matcha
+용정차,Longjing,녹차,중국 덖음 녹차,녹차 잎,중국의 대표적인 덖음 녹차,TRUE,30,3,200,80,2,침출,고소함|부드러움,견과향|풀향,https://en.wikipedia.org/wiki/Longjing_tea
+벽라춘,Biluochun,녹차,중국 녹차,녹차 잎,말린 찻잎이 나선형으로 말린 중국 녹차,TRUE,25,3,200,80,2,침출,달콤함|감칠맛,꽃향|과일향,https://en.wikipedia.org/wiki/Green_tea
+옥로,Gyokuro,녹차,일본 차광 녹차,녹차 잎,차광 재배로 감칠맛을 강조한 일본 녹차,TRUE,35,3,200,60,2,침출,감칠맛|달콤함,해조향|풀향,https://en.wikipedia.org/wiki/Green_tea
+현미녹차,Genmaicha,녹차,현미 혼합 녹차,녹차 잎|볶은 현미,녹차와 볶은 현미를 혼합한 차,TRUE,20,3,200,85,2,침출,고소함|부드러움,볶은쌀향|풀향,https://en.wikipedia.org/wiki/Genmaicha
+호지차,Hojicha,녹차,볶은 녹차,녹차 잎,찻잎을 볶아 향을 낸 일본 차,TRUE,15,3,200,90,1.5,침출,고소함|부드러움,훈연향|견과향,https://en.wikipedia.org/wiki/H%C5%8Djicha
+텐차,Tencha,녹차,말차 원료차,차광 재배 찻잎,말차를 만들 때 사용하는 차광 재배 찻잎,TRUE,30,3,200,75,2,침출,감칠맛|달콤함,풀향|해조향,https://en.wikipedia.org/wiki/Green_tea
+쿠키차,Kukicha,녹차,줄기 녹차,찻잎|줄기,줄기와 잎자루를 활용하는 일본 차,TRUE,15,3,200,80,2,침출,고소함|부드러움,풀향|견과향,https://en.wikipedia.org/wiki/Green_tea
+가부세차,Kabusecha,녹차,차광 녹차,녹차 잎,수확 전 차광하는 일본 녹차,TRUE,35,3,200,70,2,침출,감칠맛|달콤함,풀향|해조향,https://en.wikipedia.org/wiki/Green_tea
+후카무시 센차,Fukamushi Sencha,녹차,깊은 증열 녹차,녹차 잎,일반 센차보다 증열 시간을 길게 한 차,TRUE,30,3,200,75,1,침출,감칠맛|부드러움,풀향|해조향,https://en.wikipedia.org/wiki/Green_tea
+교쿠로 분말차,Matcha Powder Tea,녹차,분말 녹차,분말 녹차,분말 형태로 음용하는 녹차 유형,TRUE,60,2,200,80,0.5,휘저어 풀기,고소함|감칠맛,풀향|해조향,https://en.wikipedia.org/wiki/Matcha
+화약차,Gunpowder Tea,녹차,중국 녹차,녹차 잎,찻잎을 둥글게 말아 만든 중국 녹차,TRUE,25,3,200,80,2,침출,떫은맛|고소함,풀향|훈연향,https://en.wikipedia.org/wiki/Green_tea
+황산모봉,Huangshan Maofeng,녹차,중국 녹차,녹차 잎,황산 지역에서 생산되는 중국 녹차,TRUE,25,3,200,80,2,침출,달콤함|부드러움,꽃향|풀향,https://en.wikipedia.org/wiki/Green_tea
+태평후괴,Taiping Houkui,녹차,중국 덖음 녹차,녹차 잎,길고 납작한 잎 형태가 특징인 녹차,TRUE,25,3,200,80,2,침출,감칠맛|부드러움,풀향|꽃향,https://en.wikipedia.org/wiki/Green_tea
+신양모첨,Xinyang Maojian,녹차,중국 녹차,녹차 잎,중국 허난성의 전통 녹차,TRUE,25,3,200,80,2,침출,떫은맛|감칠맛,풀향|꽃향,https://en.wikipedia.org/wiki/Green_tea
+안길백차,Anji Bai Cha,녹차,중국 녹차,녹차 잎,이름과 달리 녹차 제조 방식의 차,TRUE,25,3,200,75,2,침출,달콤함|감칠맛,풀향|꽃향,https://en.wikipedia.org/wiki/Green_tea
+태평원숭이차,Houkui Green Tea,녹차,중복 검토 대상,녹차 잎,태평후괴의 다른 표기와 명칭을 확인할 필요가 있는 차,TRUE,25,3,200,80,2,침출,고소함|감칠맛,풀향|꽃향,https://en.wikipedia.org/wiki/Green_tea
+가루 녹차,Green Tea Powder,녹차,분말 가공 녹차,분말 녹차,녹차 잎을 분말로 가공한 제품 유형,TRUE,50,2,200,80,0.5,휘저어 풀기,고소함|떫은맛,풀향,https://en.wikipedia.org/wiki/Green_tea
+재스민 녹차,Jasmine Green Tea,녹차,꽃향 가미 녹차,녹차 잎|재스민 꽃,녹차에 재스민 꽃 향을 입힌 차,TRUE,25,3,200,80,2,침출,달콤함|부드러움,꽃향|풀향,https://en.wikipedia.org/wiki/Green_tea
+아삼 홍차,Assam,홍차,인도 아삼 홍차,홍차 잎,진하고 묵직한 풍미로 알려진 인도 홍차,TRUE,45,3,200,95,4,침출,떫은맛|고소함,맥아향|꿀향,https://en.wikipedia.org/wiki/Black_tea
+다즐링 홍차,Darjeeling,홍차,인도 다즐링 홍차,홍차 잎,인도 다즐링 지역에서 생산되는 홍차,TRUE,35,3,200,90,3,침출,떫은맛|상큼함,꽃향|과일향,https://en.wikipedia.org/wiki/Black_tea
+실론 홍차,Ceylon,홍차,스리랑카 홍차,홍차 잎,스리랑카에서 생산되는 홍차의 통칭,TRUE,40,3,200,95,4,침출,떫은맛|상큼함,감귤향|꽃향,https://en.wikipedia.org/wiki/Black_tea
+기문 홍차,Keemun,홍차,중국 홍차,홍차 잎,중국의 대표적인 홍차,TRUE,35,3,200,95,3,침출,부드러움|달콤함,꽃향|훈연향,https://en.wikipedia.org/wiki/Black_tea
+정산소종,Lapsang Souchong,홍차,훈연 홍차,홍차 잎,전통적으로 훈연 향과 연관되는 홍차,TRUE,35,3,200,95,4,침출,훈연향|고소함,훈연향|나무향,https://en.wikipedia.org/wiki/Lapsang_souchong
+전홍,Dianhong,홍차,윈난 홍차,홍차 잎,윈난 지역의 홍차,TRUE,40,3,200,95,4,침출,달콤함|고소함,맥아향|꿀향,https://en.wikipedia.org/wiki/Black_tea
+닐기리 홍차,Nilgiri,홍차,인도 닐기리 홍차,홍차 잎,인도 남부 고산 지역의 홍차,TRUE,40,3,200,95,4,침출,상큼함|떫은맛,꽃향|과일향,https://en.wikipedia.org/wiki/Black_tea
+닐기리 프로스트,Nilgiri Frost Tea,홍차,계절형 홍차,홍차 잎,계절과 생산 조건에 따라 풍미가 달라지는 홍차 유형,TRUE,40,3,200,90,4,침출,달콤함|상큼함,꽃향|과일향,https://en.wikipedia.org/wiki/Black_tea
+잉글리시 브렉퍼스트,English Breakfast,홍차,홍차 블렌드,홍차 혼합 잎,여러 홍차를 혼합한 아침용 블렌드,TRUE,45,3,200,95,4,침출,떫은맛|고소함,맥아향|꿀향,https://en.wikipedia.org/wiki/Black_tea
+아이리시 브렉퍼스트,Irish Breakfast,홍차,홍차 블렌드,홍차 혼합 잎,진한 풍미를 목표로 한 홍차 블렌드,TRUE,45,3,200,95,4,침출,떫은맛|고소함,맥아향,https://en.wikipedia.org/wiki/Black_tea
+얼그레이,Earl Grey,홍차,향미 홍차,홍차 잎|베르가모트 향료,베르가모트 향을 더한 홍차,TRUE,40,3,200,95,4,침출,떫은맛|상큼함,베르가모트향|꽃향,https://en.wikipedia.org/wiki/Earl_Grey_tea
+레이디 그레이,Lady Grey,홍차,향미 홍차,홍차 잎|감귤류 향료,감귤 계열 향을 활용하는 홍차 블렌드,TRUE,40,3,200,95,4,침출,상큼함|달콤함,감귤향|꽃향,https://en.wikipedia.org/wiki/Black_tea
+러시안 캐러밴,Russian Caravan,홍차,훈연 홍차 블렌드,홍차 혼합 잎,훈연 풍미와 연관되는 홍차 블렌드,TRUE,40,3,200,95,4,침출,고소함|훈연향,훈연향|나무향,https://en.wikipedia.org/wiki/Black_tea
+케냐 홍차,Kenyan Black Tea,홍차,케냐 홍차,홍차 잎,케냐에서 생산되는 홍차,TRUE,45,3,200,95,4,침출,떫은맛|상큼함,맥아향|과일향,https://en.wikipedia.org/wiki/Black_tea
+네팔 홍차,Nepalese Black Tea,홍차,네팔 홍차,홍차 잎,네팔 차 산지에서 생산되는 홍차,TRUE,35,3,200,90,3,침출,달콤함|상큼함,꽃향|과일향,https://en.wikipedia.org/wiki/Black_tea
+금준미,Jin Jun Mei,홍차,중국 홍차,홍차 잎,어린 싹을 활용하는 중국 홍차,TRUE,40,3,200,90,4,침출,달콤함|부드러움,꿀향|꽃향,https://en.wikipedia.org/wiki/Black_tea
+영덕홍차,Yingde Black Tea,홍차,중국 홍차,홍차 잎,중국 광둥성 영덕 지역의 홍차,TRUE,40,3,200,95,4,침출,고소함|달콤함,맥아향|꽃향,https://en.wikipedia.org/wiki/Black_tea
+정화공부홍차,Zhenghe Gongfu,홍차,중국 공부 홍차,홍차 잎,푸젠 지역의 공부 홍차 유형,TRUE,35,3,200,90,3,침출,달콤함|떫은맛,꿀향|과일향,https://en.wikipedia.org/wiki/Black_tea
+황금침 홍차,Golden Needle Black Tea,홍차,금아 홍차,홍차 잎,금빛 어린 싹을 특징으로 하는 홍차 상품 유형,TRUE,35,3,200,95,3,침출,달콤함|고소함,꿀향|맥아향,https://en.wikipedia.org/wiki/Black_tea
+홍옥 홍차,Ruby Black Tea,홍차,대만 홍차 품종,홍옥 품종 찻잎,대만의 홍차 품종으로 알려진 홍옥 계열,TRUE,40,3,200,95,4,침출,상큼함|달콤함,민트향|계피향,https://en.wikipedia.org/wiki/Black_tea
+철관음,Tieguanyin,우롱차,중국 우롱차,우롱차 잎,향긋한 풍미로 알려진 중국 우롱차,TRUE,30,4,200,90,3,침출,감칠맛|달콤함,꽃향|난향,https://en.wikipedia.org/wiki/Oolong
+대홍포,Da Hong Pao,우롱차,무이산 암차,우롱차 잎,무이산의 대표적인 암차,TRUE,30,4,200,95,3,다회 우림,고소함|떫은맛,훈연향|견과향,https://en.wikipedia.org/wiki/Oolong
+동정우롱,Dong Ding,우롱차,대만 우롱차,우롱차 잎,대만의 전통적인 우롱차,TRUE,25,4,200,90,3,다회 우림,고소함|부드러움,견과향|꽃향,https://en.wikipedia.org/wiki/Oolong
+동방미인,Oriental Beauty,우롱차,대만 우롱차,우롱차 잎,벌레의 흡즙과 관련된 독특한 향으로 알려진 우롱차,TRUE,30,4,200,90,3,다회 우림,달콤함|부드러움,꿀향|과일향,https://en.wikipedia.org/wiki/Oolong
+포종차,Baozhong,우롱차,저산화 우롱차,우롱차 잎,산화도가 낮은 편인 대만 우롱차,TRUE,25,4,200,85,3,다회 우림,상큼함|부드러움,꽃향|풀향,https://en.wikipedia.org/wiki/Oolong
+봉황단총,Fenghuang Dancong,우롱차,광둥 우롱차,우롱차 잎,다양한 꽃과 과일 계열 향으로 알려진 우롱차,TRUE,30,4,200,95,3,다회 우림,달콤함|떫은맛,꽃향|과일향,https://en.wikipedia.org/wiki/Oolong
+수선 우롱,Shuixian Oolong,우롱차,중국 우롱차,우롱차 잎,푸젠 지역에서 생산되는 우롱차 유형,TRUE,30,4,200,95,3,다회 우림,고소함|부드러움,꽃향|나무향,https://en.wikipedia.org/wiki/Oolong
+황금계,Golden Osmanthus Oolong,우롱차,중국 우롱차 품종,우롱차 잎,황금계 품종명으로 유통되는 우롱차,TRUE,30,4,200,90,3,다회 우림,달콤함|상큼함,꽃향|과일향,https://en.wikipedia.org/wiki/Oolong
+고산 우롱,High Mountain Oolong,우롱차,고산 우롱차,우롱차 잎,대만 고산 지역에서 생산되는 우롱차의 통칭,TRUE,25,4,200,90,3,다회 우림,부드러움|감칠맛,꽃향|크림향,https://en.wikipedia.org/wiki/Oolong
+아리산 우롱,Alishan Oolong,우롱차,대만 고산 우롱차,우롱차 잎,아리산 지역의 고산 우롱차,TRUE,25,4,200,90,3,다회 우림,달콤함|부드러움,꽃향|크림향,https://en.wikipedia.org/wiki/Oolong
+리산 우롱,Li Shan Oolong,우롱차,대만 고산 우롱차,우롱차 잎,리산 지역에서 생산되는 고산 우롱차,TRUE,25,4,200,90,3,다회 우림,감칠맛|달콤함,꽃향|과일향,https://en.wikipedia.org/wiki/Oolong
+무이수선,Wuyi Shuixian,우롱차,무이산 암차,우롱차 잎,무이산 암차 계열의 우롱차,TRUE,30,4,200,95,3,다회 우림,고소함|떫은맛,나무향|훈연향,https://en.wikipedia.org/wiki/Oolong
+백계관,Bai Jiguan,우롱차,무이산 명총,우롱차 잎,무이산의 전통 명차로 알려진 우롱차,TRUE,30,4,200,95,3,다회 우림,부드러움|달콤함,꽃향|견과향,https://en.wikipedia.org/wiki/Oolong
+수금귀,Shui Jin Gui,우롱차,무이산 명총,우롱차 잎,무이산 사대명총 중 하나로 알려진 차,TRUE,30,4,200,95,3,다회 우림,고소함|감칠맛,꽃향|견과향,https://en.wikipedia.org/wiki/Oolong
+철라한,Tie Luo Han,우롱차,무이산 명총,우롱차 잎,무이산 사대명총 중 하나로 알려진 차,TRUE,30,4,200,95,3,다회 우림,떫은맛|고소함,훈연향|나무향,https://en.wikipedia.org/wiki/Oolong
+백호은침,Baihao Yinzhen,백차,중국 백차,백차 잎|어린 싹,어린 싹을 중심으로 만드는 백차,TRUE,25,3,200,80,3,침출,달콤함|부드러움,꽃향|건초향,https://en.wikipedia.org/wiki/White_tea
+백모단,Bai Mudan,백차,중국 백차,백차 잎|어린 잎,싹과 어린 잎을 함께 사용하는 백차,TRUE,20,3,200,85,3,침출,달콤함|부드러움,꽃향|과일향,https://en.wikipedia.org/wiki/White_tea
+수미,Shou Mei,백차,중국 백차,백차 잎,잎을 활용하는 전통 백차 유형,TRUE,20,3,200,85,4,침출,고소함|달콤함,건초향|과일향,https://en.wikipedia.org/wiki/White_tea
+공미,Gong Mei,백차,중국 백차,백차 잎,푸젠 지역에서 생산되는 백차 유형,TRUE,20,3,200,85,4,침출,달콤함|부드러움,건초향|꽃향,https://en.wikipedia.org/wiki/White_tea
+월광백,Moonlight White,백차,윈난 백차,백차 잎,윈난 지역에서 생산되는 백차 유형,TRUE,25,3,200,85,4,침출,달콤함|부드러움,꿀향|꽃향,https://en.wikipedia.org/wiki/White_tea
+노백차,Aged White Tea,백차,숙성 백차,백차 잎,장기간 보관한 백차를 가리키는 명칭,TRUE,20,3,200,95,4,다회 우림,달콤함|고소함,건초향|나무향,https://en.wikipedia.org/wiki/White_tea
+푸딩백차,Fuding White Tea,백차,푸딩 백차,백차 잎,푸딩 지역의 백차,TRUE,20,3,200,85,4,침출,부드러움|달콤함,꽃향|건초향,https://en.wikipedia.org/wiki/White_tea
+정화백차,Zhenghe White Tea,백차,정화 백차,백차 잎,정화 지역에서 생산되는 백차,TRUE,20,3,200,85,4,침출,달콤함|고소함,꽃향|건초향,https://en.wikipedia.org/wiki/White_tea
+백차 케이크,Compressed White Tea,백차,압축 백차,백차 잎,압축 형태로 만든 백차 제품 유형,TRUE,20,4,200,90,5,침출,달콤함|부드러움,건초향|나무향,https://en.wikipedia.org/wiki/White_tea
+백차 어린잎,Young Leaf White Tea,백차,어린잎 백차,백차 잎,어린 잎을 사용한 백차 유형,TRUE,20,3,200,80,3,침출,부드러움|상큼함,풀향|꽃향,https://en.wikipedia.org/wiki/White_tea
+보이 생차,Raw Pu-erh,보이차,생 보이차,윈난 대엽종 찻잎,숙성에 따라 풍미가 변하는 생 보이차,TRUE,35,5,200,100,4,다회 우림,떫은맛|상큼함,풀향|나무향,https://en.wikipedia.org/wiki/Pu%27er_tea
+보이 숙차,Ripe Pu-erh,보이차,숙 보이차,윈난 대엽종 찻잎,습식 퇴적 발효 과정을 거치는 보이차,TRUE,30,5,200,100,4,다회 우림,부드러움|고소함,흙향|나무향,https://en.wikipedia.org/wiki/Pu%27er_tea
+노반장 보이차,Lao Banzhang Pu-erh,보이차,산지형 생·숙 보이차,윈난 대엽종 찻잎,노반장 산지명으로 유통되는 보이차,TRUE,35,5,200,100,4,다회 우림,고소함|떫은맛,나무향|흙향,https://en.wikipedia.org/wiki/Pu%27er_tea
+빙도 보이차,Bingdao Pu-erh,보이차,산지형 생·숙 보이차,윈난 대엽종 찻잎,빙도 산지명으로 유통되는 보이차,TRUE,35,5,200,100,4,다회 우림,달콤함|감칠맛,꽃향|나무향,https://en.wikipedia.org/wiki/Pu%27er_tea
+궁정 보이차,Gong Ting Pu-erh,보이차,숙 보이차 등급형,윈난 대엽종 찻잎,어린 잎 비중이 높은 등급 명칭으로 사용되는 숙차,TRUE,30,5,200,100,4,다회 우림,부드러움|고소함,흙향|나무향,https://en.wikipedia.org/wiki/Pu%27er_tea
+육보차,Liu Bao Tea,후발효차,육보 흑차,차나무 잎,후발효 과정을 거치는 중국 흑차,TRUE,30,4,200,100,4,다회 우림,부드러움|고소함,흙향|나무향,https://en.wikipedia.org/wiki/Chinese_tea
+복전차,Fuzhuan Tea,후발효차,복전 흑차,차나무 잎,발효 과정과 황금꽃 균류로 알려진 압축차,TRUE,30,4,200,100,4,다회 우림,고소함|부드러움,나무향|흙향,https://en.wikipedia.org/wiki/Chinese_tea
+천량차,Qianliang Tea,후발효차,압축 흑차,차나무 잎,긴 원통형으로 압축하는 흑차 유형,TRUE,30,4,200,100,5,다회 우림,고소함|떫은맛,나무향|흙향,https://en.wikipedia.org/wiki/Chinese_tea
+안화 흑차,Anhua Dark Tea,후발효차,안화 흑차,차나무 잎,후난성 안화 지역의 흑차,TRUE,30,4,200,100,4,다회 우림,부드러움|고소함,나무향|흙향,https://en.wikipedia.org/wiki/Chinese_tea
+강전차,Kang Zhuan Tea,후발효차,강전 흑차,차나무 잎,압축 형태로 유통되는 전통 차 유형,TRUE,25,4,200,100,5,다회 우림,고소함|부드러움,나무향|흙향,https://en.wikipedia.org/wiki/Chinese_tea
+청전차,Qing Zhuan Tea,후발효차,청전 흑차,차나무 잎,벽돌 형태로 압축하는 흑차 유형,TRUE,25,4,200,100,5,다회 우림,고소함|떫은맛,나무향|흙향,https://en.wikipedia.org/wiki/Chinese_tea
+캐모마일,Chamomile,허브차,꽃 허브차,캐모마일 꽃,캐모마일 꽃을 우려 마시는 허브 음료,FALSE,null,2,250,100,5,침출,달콤함|부드러움,꽃향|사과향,https://en.wikipedia.org/wiki/Chamomile
+페퍼민트,Peppermint,허브차,민트 허브차,페퍼민트 잎,민트 잎을 우려 마시는 허브 음료,FALSE,null,2,250,100,5,침출,상큼함|청량함,민트향|허브향,https://en.wikipedia.org/wiki/Peppermint
+루이보스,Rooibos,허브차,허브 침출차,루이보스 잎,남아프리카 원산 식물의 잎을 이용한 음료,FALSE,null,3,250,100,6,침출,달콤함|고소함,나무향|꿀향,https://en.wikipedia.org/wiki/Rooibos
+히비스커스,Hibiscus,허브차,꽃 허브차,히비스커스 꽃받침,히비스커스 꽃받침을 우려내는 음료,FALSE,null,3,250,100,5,침출,상큼함|산미,꽃향|과일향,https://en.wikipedia.org/wiki/Hibiscus_tea
+레몬밤,Lemon Balm,허브차,허브 잎차,레몬밤 잎,레몬 계열 향이 나는 허브 잎 음료,FALSE,null,2,250,100,5,침출,상큼함|부드러움,레몬향|허브향,https://en.wikipedia.org/wiki/Lemon_balm
+레몬버베나,Lemon Verbena,허브차,허브 잎차,레몬버베나 잎,레몬 향이 특징인 허브 침출 음료,FALSE,null,2,250,95,5,침출,상큼함|달콤함,레몬향|꽃향,https://en.wikipedia.org/wiki/Aloysia_citrodora
+생강차,Ginger Infusion,허브차,뿌리 허브차,생강 뿌리,생강 뿌리를 이용한 침출 음료,FALSE,null,5,250,100,8,침출,매운맛|따뜻함,생강향|향신료향,https://en.wikipedia.org/wiki/Ginger
+강황차,Turmeric Infusion,허브차,뿌리 허브차,강황 뿌리줄기,강황 뿌리줄기를 이용한 음료,FALSE,null,3,250,100,7,침출,쌉쌀함|향신료맛,흙향|향신료향,https://en.wikipedia.org/wiki/Turmeric
+라벤더차,Lavender,허브차,꽃 허브차,라벤더 꽃,라벤더 꽃을 활용하는 허브 음료,FALSE,null,2,250,95,5,침출,부드러움|달콤함,꽃향|허브향,https://en.wikipedia.org/wiki/Lavender
+로즈힙,Rosehip,허브차,열매 허브차,로즈힙 열매,장미 열매를 이용한 침출 음료,FALSE,null,4,250,100,8,침출,상큼함|산미,과일향|꽃향,https://en.wikipedia.org/wiki/Rose_hip
+쐐기풀차,Nettle,허브차,잎 허브차,쐐기풀 잎,쐐기풀 잎을 건조해 이용하는 허브 음료,FALSE,null,2,250,100,7,침출,풀향|부드러움,풀향|허브향,https://en.wikipedia.org/wiki/Urtica_dioica
+레몬그라스,Lemongrass,허브차,허브 침출차,레몬그라스 잎,레몬 향이 나는 풀을 이용한 음료,FALSE,null,2,250,100,5,침출,상큼함|부드러움,레몬향|풀향,https://en.wikipedia.org/wiki/Lemongrass
+회향차,Fennel,허브차,씨앗 허브차,회향 씨앗,회향 씨앗을 우려 마시는 음료,FALSE,null,2,250,100,7,침출,달콤함|향신료맛,향신료향|허브향,https://en.wikipedia.org/wiki/Fennel
+아니스차,Anise,허브차,씨앗 허브차,아니스 씨앗,아니스 씨앗을 이용한 침출 음료,FALSE,null,2,250,100,7,침출,달콤함|향신료맛,감초향|향신료향,https://en.wikipedia.org/wiki/Anise
+보리차,Roasted Barley Tea,허브차,곡물차,볶은 보리,볶은 보리를 물에 끓이거나 우려내는 음료,FALSE,null,10,500,100,5,끓이기,고소함|부드러움,볶은곡물향|견과향,https://en.wikipedia.org/wiki/Barley_tea
+메밀차,Buckwheat Tea,허브차,곡물차,볶은 메밀,볶은 메밀을 이용한 음료,FALSE,null,5,250,95,5,침출,고소함|달콤함,볶은곡물향|견과향,https://en.wikipedia.org/wiki/Buckwheat
+옥수수수염차,Corn Silk Tea,허브차,식물성 침출차,옥수수수염,옥수수수염을 이용한 침출 음료,FALSE,null,3,250,100,7,침출,부드러움|고소함,곡물향|풀향,https://en.wikipedia.org/wiki/Corn_tea
+민들레차,Dandelion,허브차,뿌리·잎 허브차,민들레 뿌리|잎,민들레 뿌리나 잎을 활용하는 음료,FALSE,null,4,250,100,8,침출,쌉쌀함|고소함,풀향|흙향,https://en.wikipedia.org/wiki/Dandelion
+패션플라워차,Passionflower,허브차,꽃 허브차,패션플라워,패션플라워 식물을 이용하는 허브 음료,FALSE,null,2,250,95,5,침출,부드러움|풀향,허브향|풀향,https://en.wikipedia.org/wiki/Passiflora
+쟈스민 꽃차,Jasmine Flower Infusion,허브차,꽃 허브차,재스민 꽃,재스민 꽃 자체를 우려내는 음료로 녹차 블렌드와 구분,FALSE,null,2,250,90,5,침출,달콤함|부드러움,꽃향,https://en.wikipedia.org/wiki/Jasmine
+유자차,Yuja Tea,과일차,과일차,유자|당류,유자와 당류를 활용해 만드는 과일 음료,FALSE,null,20,250,90,5,침출,달콤함|상큼함,감귤향|과일향,https://en.wikipedia.org/wiki/Yuja_tea
+레몬차,Lemon Infusion,과일차,과일 침출차,레몬,레몬 조각이나 레몬즙을 활용한 음료,FALSE,null,10,250,95,5,침출,상큼함|산미,레몬향|감귤향,https://en.wikipedia.org/wiki/Lemon
+사과차,Apple Infusion,과일차,과일 침출차,사과,사과 조각이나 건조 사과를 이용한 음료,FALSE,null,5,250,95,7,침출,달콤함|상큼함,사과향|과일향,https://en.wikipedia.org/wiki/Apple
+배차,Pear Infusion,과일차,과일 침출차,배,배를 물에 넣어 끓이거나 우려내는 음료,FALSE,null,5,250,95,7,끓이기,달콤함|부드러움,과일향,https://en.wikipedia.org/wiki/Pear
+모과차,Quince Tea,과일차,과일차,모과,모과를 활용한 전통 과일 음료,FALSE,null,5,250,90,8,침출,달콤함|상큼함,과일향|꽃향,https://en.wikipedia.org/wiki/Quince
+대추차,Jujube Tea,과일차,과일 침출차,대추,대추 열매를 우려내는 음료,FALSE,null,10,500,100,10,끓이기,달콤함|부드러움,과일향|꿀향,https://en.wikipedia.org/wiki/Jujube
+오미자차,Schisandra Tea,과일차,열매 침출차,오미자,오미자 열매를 이용하는 전통 음료,FALSE,null,5,250,80,8,침출,산미|달콤함,과일향,https://en.wikipedia.org/wiki/Schisandra_chinensis
+귤피차,Mandarin Peel Tea,과일차,껍질 침출차,귤피,귤 껍질을 건조해 활용하는 음료,FALSE,null,3,250,100,7,침출,상큼함|쌉쌀함,감귤향|과일향,https://en.wikipedia.org/wiki/Mandarin_orange
+복숭아차,Peach Infusion,과일차,과일 침출차,복숭아,복숭아나 복숭아 향료를 활용하는 과일 음료,FALSE,null,5,250,90,7,침출,달콤함|상큼함,복숭아향|과일향,https://en.wikipedia.org/wiki/Peach
+딸기차,Strawberry Infusion,과일차,과일 침출차,딸기,딸기 또는 건조 딸기를 활용하는 음료,FALSE,null,5,250,95,7,침출,달콤함|상큼함,딸기향|과일향,https://en.wikipedia.org/wiki/Strawberry
+블루베리차,Blueberry Infusion,과일차,과일 침출차,블루베리,블루베리 원료를 활용하는 과일 음료,FALSE,null,5,250,95,7,침출,상큼함|달콤함,베리향|과일향,https://en.wikipedia.org/wiki/Blueberry
+라즈베리차,Raspberry Infusion,과일차,과일 침출차,라즈베리,라즈베리 열매를 활용하는 음료,FALSE,null,5,250,95,7,침출,상큼함|산미,베리향|과일향,https://en.wikipedia.org/wiki/Raspberry
+혼합 베리차,Mixed Berry Infusion,과일차,혼합 과일차,혼합 베리,여러 종류의 베리 원료를 혼합한 음료,FALSE,null,5,250,95,7,침출,상큼함|달콤함,베리향|과일향,https://en.wikipedia.org/wiki/Berry
+과일 히비스커스 블렌드,Fruit Hibiscus Blend,과일차,과일·꽃 블렌드,히비스커스|건조 과일,히비스커스와 건조 과일을 혼합한 침출 음료,FALSE,null,5,250,100,7,침출,상큼함|산미,꽃향|과일향,https://en.wikipedia.org/wiki/Hibiscus_tea
+슈퍼 화이트 티,Super White Tea,백차,인도 다즐링 실버 니들,백차 잎|어린 싹,다즐링 고지대의 어린 싹으로 만든 프리미엄 실버 니들 백차,TRUE,20,2,200,75,2,침출,은은한 단맛|사탕수수향,가벼운 풀향|은은한 식물향,https://en.wikipedia.org/wiki/White_tea
+옐로 골드 화이트 티,Yellow Gold White Tea,백차,히말라야 골든 니들,황금빛 어린 찻싹,독특한 황금빛 싹과 꿀 같은 단맛이 특징인 희귀 백차,TRUE,20,2,200,75,2,침출,꿀향|사탕수수향|부드러운 단맛,달콤한 꽃향|은은한 꿀향,https://en.wikipedia.org/wiki/White_tea
+화이트 블라섬,White Blossom,백차,인도 블루 마운틴 실버 니들,백차 잎|어린 싹,인도 남부 블루 마운틴의 순다람 차나무 싹으로 만든 백차,TRUE,20,2,200,75,2,침출,부드러운 단맛|가벼운 식물향,은은한 꽃향|식물향,https://en.wikipedia.org/wiki/White_tea
+레몬그라스 실버 니들,Lemongrass Silver Needle White Tea,백차,레몬그라스 블렌드,실버 니들 백차|레몬그라스,백차에 레몬그라스를 더한 향긋한 블렌드,TRUE,20,2,200,75,2,침출,상쾌함|은은한 단맛|시트러스향,레몬그라스향|풀향,https://en.wikipedia.org/wiki/White_tea
+툴시 실버 니들,Tulsi Silver Needle White Tea,백차,툴시 블렌드,실버 니들 백차|툴시,인도 허브 툴시와 실버 니들을 혼합한 백차,TRUE,20,2,200,75,2,침출,부드러운 단맛|허브향|은은한 시트러스향,허브향|은은한 향신료향,https://en.wikipedia.org/wiki/White_tea
+레모니 유칼립투스 실버 니들,Lemony Eucalyptus Silver Needle White Tea,백차,유칼립투스 블렌드,실버 니들 백차|레몬 향 원료|유칼립투스,백차에 상쾌한 레몬 계열 향과 유칼립투스를 더한 블렌드,TRUE,20,2,200,75,2,침출,상쾌함|은은한 단맛|시트러스향,레몬향|유칼립투스향,https://en.wikipedia.org/wiki/White_tea
+로즈 실버 니들,Rose Silver Needle White Tea,백차,장미 블렌드,실버 니들 백차|장미 꽃잎,실버 니들 백차와 인도산 장미 꽃잎을 조합한 꽃향 백차,TRUE,20,2,200,75,2,침출,부드러운 단맛|꽃향,장미향|은은한 식물향,https://en.wikipedia.org/wiki/White_tea
+재스민 실버 니들,Jasmine Silver Needle White Tea,백차,재스민 블렌드,실버 니들 백차|재스민 꽃,중국산 실버 니들 백차에 재스민 향을 입힌 꽃향 백차,TRUE,20,2,200,75,2,침출,부드러운 단맛|산뜻함,재스민 꽃향,https://en.wikipedia.org/wiki/Jasmine_tea
+캐모마일 화이트 티,Chamomile White Tea,백차,캐모마일·레몬그라스 블렌드,실버 니들 백차|캐모마일|레몬그라스,백차에 캐모마일과 레몬그라스를 혼합한 허브 블렌드,TRUE,20,2,200,75,2,침출,부드러움|은은한 꽃향|상쾌함,캐모마일향|레몬그라스향,https://en.wikipedia.org/wiki/White_tea
+모로칸 민트 실버 니들,Moroccan Mint Silver Needle White Tea,백차,민트 블렌드,실버 니들 백차|민트,백차에 민트를 더한 산뜻한 블렌드,TRUE,20,2,200,75,2,침출,산뜻함|부드러운 단맛|청량감,민트향|은은한 식물향,https://en.wikipedia.org/wiki/White_tea
+사프란 실버 니들,Saffron Silver Needle White Tea,백차,사프란 블렌드,실버 니들 백차|히말라야 사프란,실버 니들 백차에 사프란을 더한 프리미엄 블렌드,TRUE,20,2,200,75,2,침출,부드러운 단맛|은은한 향신료향,꽃향|사프란 향,https://en.wikipedia.org/wiki/White_tea
+군산은침,Junshan Yinzhen,황차,후난성 군산 황아차,어린 찻싹,후난성 둥팅호 군산에서 생산하며 민황 공정을 거치는 대표적인 싹 형태의 황차,TRUE,25,3,200,80,2,침출,부드러운 단맛|은은한 곡물향,꿀향|옥수수향|은은한 풀향,https://en.wikipedia.org/wiki/Yellow_tea
+곽산황아,Huoshan Huangya,황차,안후이성 황아차,어린 찻싹|어린잎,안후이성 곽산 지역에서 생산하며 싹과 어린잎을 사용해 부드럽게 가공한 황차,TRUE,25,3,200,80,2,침출,부드러운 단맛|고소함|깔끔한 뒷맛,달큰한 건초향|은은한 볶은 곡물향,https://en.wikipedia.org/wiki/Yellow_tea
+몽정황아,Mengding Huangya,황차,쓰촨성 몽정산 황아차,어린 찻싹|어린잎,쓰촨성 몽정산에서 생산하며 여러 차례의 가열과 민황 공정을 거치는 전통 황차,TRUE,25,3,200,80,2,침출,부드러운 단맛|밤향|은은한 꽃향,꽃향|달큰한 풀향|밤향,https://en.wikipedia.org/wiki/Yellow_tea
+북항모첨,Beigang Maojian,황차,후난성 북항 황소엽차,찻싹|어린잎,후난성 북항 지역과 관련된 황차로 가는 찻잎과 싹을 사용하며 부드러운 맛이 특징,TRUE,25,3,200,85,2.5,침출,산뜻함|은은한 단맛|가벼운 고소함,풀향|곡물향,https://en.wikipedia.org/wiki/Yellow_tea
+황대차,Huang Da Cha,황차,대엽 황차,성숙한 찻잎|줄기,비교적 성숙한 잎을 사용하고 강한 가열과 민황 공정을 거쳐 구수한 향을 내는 황차,TRUE,30,4,200,90,3,침출,구수함|볶은 곡물향|묵직한 맛,볶은 곡물향|구운 견과향,https://en.wikipedia.org/wiki/Yellow_tea
+위산모첨,Weishan Maojian,황차,후난성 위산 황소엽차,어린잎|찻싹,후난성 위산 지역의 황차로 알려져 있으며 부드러운 맛과 독특한 가공 향이 특징,TRUE,25,3,200,85,2.5,침출,부드러운 단맛|은은한 훈연향,곡물향|은은한 훈연향|풀향,https://en.wikipedia.org/wiki/Yellow_tea
