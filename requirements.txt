@@ -1,10 +1,8 @@
 PyYAML
-
 streamlit==1.62.0
-
 langchain-openai==1.4.3
 langchain-core==1.6.0
 langchain-chroma
+langchain-huggingface
 python-dotenv==1.2.3
-
 requests==2.34.2
