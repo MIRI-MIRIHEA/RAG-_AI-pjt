@@ -374,7 +374,38 @@ def search_by_category(
     ]
 
     return category, results
+def recommend_low_caffeine_teas(
+    teas: list[dict],
+    limit: int = 5,
+) -> list[dict]:
+    candidates = []
 
+    for tea in teas:
+        raw = tea.get("caffeine_mg_per_tea_amount", "")
+        amount = tea.get("tea_amount_g", "")
+
+        try:
+            caffeine = float(raw)
+            tea_amount = float(amount)
+        except (TypeError, ValueError):
+            continue
+
+        if caffeine < 0 or tea_amount <= 0:
+            continue
+
+        candidates.append({
+            **tea,
+            "_caffeine_mg": caffeine,
+            "_tea_amount_g": tea_amount,
+        })
+
+    candidates.sort(
+        key=lambda tea: (
+            tea["_caffeine_mg"] / tea["_tea_amount_g"]
+        )
+    )
+
+    return candidates[:limit]
 # --------------------------------------------------
 # 5. Chroma 외부 문서 검색
 # --------------------------------------------------
